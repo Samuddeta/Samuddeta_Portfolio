@@ -1,6 +1,6 @@
 # Samuddeta_Portfolio
 
-## Project 1: Breast Cancer Prediction Using Logistic Regression
+## [Project 1: Breast Cancer Prediction Using Logistic Regression](https://github.com/Samuddeta/Breast-Cancer-Prediction.git)
 ## Problem Statement 
 * To detect the type of a cancer from the given data, From this we can detect whether the patient is in the malignant or benign stage.
 * It is based on the supervised Machine learning algorithm called logistic regression by converting the given data into binary classification. In this project developed a mechanism to test the trained data with the present data to detect the type of cancer. 
