@@ -49,7 +49,7 @@
  * Feature Extraction 
  * Training the model:> Support Vector Machine 
  * Evaluation of the model
- *  Prediction on new mail 
+ *  Prediction on new mail
  
  ## Conclusion 
  * Depending on dataset provided it will Predict the email feature 
