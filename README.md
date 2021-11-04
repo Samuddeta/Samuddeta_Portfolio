@@ -26,3 +26,30 @@
 ## Conclusion 
 * Depending on dataset provided it will detect cancer stage.
 * In the provided data set it will detect the patient is in malignant stage.
+
+
+ ## Project 2:Spam Mail Classification Using SVM 
+ ## Problem Statement 
+ * Predction on Spam Mail using Support vector machine algorithm, In spam mail detection email data is collected through the dataset. 
+ * Pre-processing of data is done by using TF-IDF Vectorizer module. SVM algorithm is used to detect the given email is spam or ham.
+ 
+ ## Code and Resource used 
+ * Python version 3.7 
+ * Packages:Pandas,numpy,scikitlearn,SVMTfidfVectorizer,LinearSVC 
+ 
+## Attributes 
+ * ID number 
+ * Features
+  
+ ## Data Handling 
+ * Importing Libraries 
+ * Loading dataset 
+ * Data Preprocessing Train -Test split 
+ * Feature Extraction 
+ * Training the model:> Support Vector Machine 
+ * Evaluation of the model
+ *  Prediction on new mail 
+ 
+ ## Conclusion 
+ * Depending on dataset provided it will Predict the email feature. 
+ * In the provided data set it is predicted spam mail and ham mail.
