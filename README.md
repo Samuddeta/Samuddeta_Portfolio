@@ -52,5 +52,5 @@
  *  Prediction on new mail 
  
  ## Conclusion 
- * Depending on dataset provided it will Predict the email feature. 
- * In the provided data set it is predicted spam mail and ham mail.
+ * Depending on dataset provided it will Predict the email feature 
+ * In the provided data set it is predicted spam mail and ham mail
