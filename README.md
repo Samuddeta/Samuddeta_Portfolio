@@ -33,10 +33,6 @@
  * Predction on Spam Mail using Support vector machine algorithm, In spam mail detection email data is collected through the dataset. 
  * Pre-processing of data is done by using TF-IDF Vectorizer module. SVM algorithm is used to detect the given email is spam or ham.
  
-# Code and Resource used 
- * Python version 3.7 
- * Packages:Pandas,numpy,scikitlearn,SVMTfidfVectorizer,LinearSVC 
- 
 # Attributes 
  * ID number 
  * Features
@@ -53,3 +49,29 @@
  # Conclusion 
  * Depending on dataset provided it will Predict the email feature 
  * In the provided data set it is predicted spam mail and ham mail
+
+
+# Project 3:Prediction Using Linear Regression
+# Problem Statement 
+* Predict the percentage of a student based on the number of study hour
+
+## Code and Resource used 
+* Python version 3.7 
+* Packages:Pandas,numpy,scikitlearn,Matplotlib 
+
+# Attributes 
+ * Hours 
+ * Scores
+ 
+# Data Handling 
+ * Importing Libraries 
+ * Loading dataset 
+ * Preparing the data
+ * Training the Algorithm
+ * Making Predictions
+ * Evaluation of the model
+ * What will be predicted score if a student studies for 9.25 hrs/ day?
+ 
+ # Conclusion 
+ * We can Predict score based on number of hours student studied
+ * Predcited By providing input data i.e number of hours,predicted the student score.
