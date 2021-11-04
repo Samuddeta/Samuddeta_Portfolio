@@ -28,6 +28,7 @@
 * In the provided data set it will detect the patient is in malignant stage.
 
 
+
  ## Project 2:Spam Mail Classification Using SVM 
  ## Problem Statement 
  * Predction on Spam Mail using Support vector machine algorithm, In spam mail detection email data is collected through the dataset. 
