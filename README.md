@@ -28,13 +28,12 @@
 * In the provided data set it will detect the patient is in malignant stage.
 
 
-
- ## [Project 2:Spam Mail Classification Using SVM](https://github.com/Samuddeta/Spam-ham-mail-prediction.git) 
- # Problem Statement 
+## [Project 2:Spam Mail Classification Using SVM](https://github.com/Samuddeta/Spam-ham-mail-prediction.git) 
+# Problem Statement 
  * Predction on Spam Mail using Support vector machine algorithm, In spam mail detection email data is collected through the dataset. 
  * Pre-processing of data is done by using TF-IDF Vectorizer module. SVM algorithm is used to detect the given email is spam or ham.
  
- # Code and Resource used 
+# Code and Resource used 
  * Python version 3.7 
  * Packages:Pandas,numpy,scikitlearn,SVMTfidfVectorizer,LinearSVC 
  
@@ -42,7 +41,7 @@
  * ID number 
  * Features
   
- # Data Handling 
+# Data Handling 
  * Importing Libraries 
  * Loading dataset 
  * Data Preprocessing Train -Test split 
