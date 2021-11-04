@@ -29,7 +29,7 @@
 
 
 
- ## Project 2:Spam Mail Classification Using SVM 
+ ## [Project 2:Spam Mail Classification Using SVM](https://github.com/Samuddeta/Spam-ham-mail-prediction.git) 
  ## Problem Statement 
  * Predction on Spam Mail using Support vector machine algorithm, In spam mail detection email data is collected through the dataset. 
  * Pre-processing of data is done by using TF-IDF Vectorizer module. SVM algorithm is used to detect the given email is spam or ham.
