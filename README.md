@@ -51,7 +51,7 @@
  * In the provided data set it is predicted spam mail and ham mail
 
 
-# [Project 3:Prediction Using Linear Regression]( https://github.com/Samuddeta/prediction-of-supervised-ML.git)
+# [Project 4:Prediction Using Linear Regression]( https://github.com/Samuddeta/prediction-of-supervised-ML.git)
 # Problem Statement 
 * Predict the percentage of a student based on the number of study hour
 
