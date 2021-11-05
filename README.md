@@ -46,7 +46,7 @@
  * Evaluation of the model
  *  Prediction on new mail
  
- # Conclusion 
+# Conclusion 
  * Depending on dataset provided it will Predict the email feature 
  * In the provided data set it is predicted spam mail and ham mail
 
@@ -72,6 +72,6 @@
  * Evaluation of the model
  * What will be predicted score if a student studies for 9.25 hrs/ day?
  
- # Conclusion 
+# Conclusion 
  * We can Predict score based on number of hours student studied
  * Predcited By providing input data i.e number of hours,predicted the student score.
