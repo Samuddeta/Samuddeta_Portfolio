@@ -108,7 +108,11 @@
 * Data Visualization Or Graphical Representation
 * Predicting Red Wine Quality
 
-# Conclusion 
+# Conclusion
+
+[](https://github.com/Samuddeta/Samuddeta_Portfolio/tree/main/images)
+
 * By Data Visualization,The plot shows the increase in the quality of wine with an increase in alcohol. 
 * The quality of the wine is directly related to the amount of alcohol in the wine. More the alcohol in the wine, the better will be the quality.
 * Also, the points lying outside the whiskers(the lines extending from the rectangular box) are the outliers
+
