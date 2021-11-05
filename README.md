@@ -77,7 +77,7 @@
  * Predcited By providing input data i.e number of hours,predicted the student score.
 
 
-## Project 4:Prediction And EDA of Red Wine Quality
+## [Project 4:Prediction And EDA of Red Wine Quality](https://github.com/Samuddeta/Red-wine-quality.git)
 ## Problem Statement 
 * Performing EDA on Red wine data
 * By using Provided Attributes Checking The quality of wine
