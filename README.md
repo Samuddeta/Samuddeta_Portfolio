@@ -51,7 +51,7 @@
  * In the provided data set it is predicted spam mail and ham mail
 
 
-# [Project 4:Prediction Using Linear Regression]( https://github.com/Samuddeta/prediction-of-supervised-ML.git)
+# [Project 3:Prediction Using Linear Regression]( https://github.com/Samuddeta/prediction-of-supervised-ML.git)
 # Problem Statement 
 * Predict the percentage of a student based on the number of study hour
 
@@ -77,7 +77,7 @@
  * Predcited By providing input data i.e number of hours,predicted the student score.
 
 
-## Project 3:Prediction And EDA of Red Wine Quality
+## Project 4:Prediction And EDA of Red Wine Quality
 ## Problem Statement 
 * Performing EDA on Red wine data
 * By using Provided Attributes Checking The quality of wine
