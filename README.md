@@ -75,3 +75,40 @@
 # Conclusion 
  * We can Predict score based on number of hours student studied
  * Predcited By providing input data i.e number of hours,predicted the student score.
+
+
+## Project 3:Prediction And EDA of Red Wine Quality
+## Problem Statement 
+* Performing EDA on Red wine data
+* By using Provided Attributes Checking The quality of wine
+
+## Code and Resource used 
+* Python version 3.7 
+* Packages:Pandas,numpy,scikitlearn,Matplotlib,seaborn
+
+## Attributes 
+ * fixed acidity
+* volatile acidity
+* citric acid
+* residual sugar
+* chlorides
+* free sulfur dioxide
+* total sulfur dioxide
+* density
+* pH
+* sulphates
+* alcohol Output variable:
+* quality (score between 0 and 10)
+
+## Data Handling 
+* Importing Libraries
+* Get a Statistical Overview using Describe
+* Exploring the Features/Variables
+* Checking for Missing Values
+* Data Visualization Or Graphical Representation
+* Predicting Red Wine Quality
+
+# Conclusion 
+* By Data Visualization,The plot shows the increase in the quality of wine with an increase in alcohol. 
+* The quality of the wine is directly related to the amount of alcohol in the wine. More the alcohol in the wine, the better will be the quality.
+* Also, the points lying outside the whiskers(the lines extending from the rectangular box) are the outliers
